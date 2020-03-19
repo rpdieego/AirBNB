@@ -3,6 +3,8 @@ Udacity - Data Scientist Nanodegree [Project 01 - Write a Data Science Blog Post
 
 The goal of this project is writing a data science blog post on Medium. As I could choose any topic, I decided to follow the reccomendation at the project guide and use the datasets provided by Airbnb, regarding the american cities of Boston(MA) and Seattle(WA).
 
+Link to the article [here](https://medium.com/@rsprzdieego/where-can-i-get-a-better-airbnb-experience-seattle-or-boston-2b658736f382)
+
 The full datasets are available on the Kaggle website (please find the links below):
 
 *   [Boston Dataset](https://www.kaggle.com/airbnb/boston)
