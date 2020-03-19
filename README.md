@@ -90,7 +90,7 @@ Seattle: Houses - 45.39% ; Appartments - 44.73%;
 
 *   **Prices Comparison** 
 
-Boston has higher booking prices for all the types of properties which are common to both, besides house (which is quite the same) and boat (which is quite higher in Seattle);
+Boston has higher booking prices for all the types of properties which are common to both, besides house (which is quite the same) , boat and camper/rv;
 
 ###   (3) Which city has the best properties available (based on the guest reviews)?
 
@@ -109,8 +109,8 @@ Seattle has better review ratings at all the features, and also has best general
 
 From a guest point of view, it's possible to say that Seattle is more likely to provide a better Airbnb experience, as we have seen that:
 
-*   The hosts seem to be more attentions and flexible, besides the fact of being close to help out with any problems;
-*   Prices for one night booking are better or the same for all the property types, but Boats;
+*   The hosts seem to be more thoughful and flexible, besides the fact of being close to help out with any problems;
+*   Prices for one night booking are better or the same for all the property types, but vehicles (Boats and Camper/RVs);
 *   Booking reviews for all the types of properties are better in Seattle;
 *   All the six evaluated features have higher average values in Seattle;
 
